@@ -1,38 +1,32 @@
 ---
 layout: pilgrimage
-title: "Travel a Forested Path"
-categories: [ East Asia, 9th century ]
-mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
-clue: "Find me at the bench in the center of Dunn's Woods."
+title: "Time Traveling: Mid 1400s-1600s"
+categories: [ Western Civilizations from 1500's]
+mapurl: "https://www.google.com/maps/place/Genoese+fortress/@45.0214958,35.3970795,17z/data=!4m6!3m5!1s0x40eb85fd22071caf:0x3bad46e18f0ea250!8m2!3d45.021492!4d35.3996544
+https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
+clue: "I am a point of beggining, but not the end. Find me in Caffa at the Fort built to protect mercantile intersts where one reviewer wrote about the legendary chicken tenders and another wrote that children climb the walls."
 shortdesc: >
-    Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
-lat: "39.1658751"
-long: "-86.5256635"
-medievalparalleltitle: "Shikoku Henro"
+     The pandemic was reportedly first introduced to Europe during the siege of the Genoese trading port of Caffa in Crimea by the Golden Horde army of Jani Beg in 1347. From Crimea, it was most likely carried by fleas living on the black rats that travelled on Genoese ships, spreading through the Mediterranean Basin and reaching North Africa, West Asia, and the rest of Europe via Constantinople, Sicily, and the Italian Peninsula.
+lat: "45.0214958"
+long: "35.3970795"
+medievalparalleltitle: "The site of the siege of the Genoese trading port of Caffa in Crimea by the Golden Horde army of Jani Beg in 1347."
 medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
 medievalparallel: |
-    Buddhist priest Kūkai was born Saeki no Mao (Mao, of the Saeki family) on the island of Shikoku in Japan. His early studies led to a life of ascetic and meditative practices as a Buddhist and an administrator in 9th century Japan. His writings on Buddhism in the Japanese tradition led to his other name, Kōbō Daishi, or "Great Teacher".
+  The origin of the Black Death is disputed. Genetic analysis suggests Yersinia pestis bacteria evolved approximately 7,000 years ago, at the beginning of the Neolithic, with flea-mediated strains emerging around 3,800 years ago during the late Bronze Age. The immediate territorial origins of the Black Death and its outbreak remain unclear, with some evidence pointing towards Central Asia, China, the Middle East, and Europe. The pandemic was reportedly first introduced to Europe during the siege of the Genoese trading port of Caffa in Crimea by the Golden Horde army of Jani Beg in 1347. From Crimea, it was most likely carried by fleas living on the black rats that travelled on Genoese ships, spreading through the Mediterranean Basin and reaching North Africa, West Asia, and the rest of Europe via Constantinople, Sicily, and the Italian Peninsula. There is evidence that once it came ashore, the Black Death mainly spread from person-to-person as pneumonic plague, thus explaining the quick inland spread of the epidemic, which was faster than would be expected if the primary vector was rat fleas causing bubonic plague. Taken from Wikipedia for the ease of this example, can be accessed at https://en.wikipedia.org/wiki/Black_Death.
 
-    The [Shikoku Henro](https://88shikokuhenro.jp/en/basic-knowledge/understanding-pilgrimage/), or Shikoku pilgrimage, is a circular pilgrimage to 88 sites on Shikoku associated with Kūkai's 9th-century life; much of the path is forested and offers contemplation of both the natural world and Kūkai's Buddhist teachings. A collection of folksongs from 12th-century Japan, the Ryojin Hisho, mentions the Shikoku pilgrimage among a number of other pilgrimages. One poem laments the winter pilgrimage and the trees that lose their leaves:
-
-    The mountain ascetic suffers the austerity of winter: his house of trees has lost. (*RH 305*)
-
-    By the 16th century, 88 specific sites had emerged as a pilgrimage tradition that lives on today.
-
-    * Kim, Yung-Hee. Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
 
 learnmore: |
-    - Take a course on medieval Japan with Professor Morten Oxenboell (East Asian Languages and Cultures)
-    - Find out more from Professor Heather Blair (Religious Studies), whose current project *Reverently I Pray* looks at patronage networks and prayer in medieval Japan
+    - Take a course on Western Civilizations with any of our history faculty mamebers including Professor Jeff Dennis, Professor Emily Johnson, and Professor Amber Bader (Other offerings of interest may be offered by the broader humanities and Communications departments whose faculty members teach a wide variety of courses.)
+    - Find out more from Professor Amber Bader and Professor Jeff W. Dennis, whose current projects include * Patriots and Indians: Shaping Identity in Eighteenth-Century South Carolina * a work of speculative fiction that which explores colonial-era relationships. 
 medievallat: 34.1596727
 medievallong: 134.5003381
 entryauthor:
   name: "Morten Oxenboell"
-  affiliation: "East Asian Languages and Cultures, Indiana University"
+  affiliation: "School of Arts and Sciences, South Western Michigan Community College"
 img:
-  file: ShikokuHenro_Kukai.jpg
+  file: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/960px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png
   credit: |
-    Eight Patriarchs of the Shingon Sect of Buddhism, Kūkai; Kamakura period, 13th-14th century. Source: Integrated Collections Database of the National Museums, Japan, https://colbase.nich.go.jp/collection_items/narahaku/797-8?locale=en
-  source: https://colbase.nich.go.jp/collection_items/narahaku/797-8?locale=en
+ Wikipedia for the ease of this example, can be accessed at https://en.wikipedia.org/wiki/Black_Death.
+  source: [https://colbase.nich.go.jp/collection_items/narahaku/797-8?locale=en](https://en.wikipedia.org/wiki/Black_Death.)
 creationdate: 2026-01-29
 ---

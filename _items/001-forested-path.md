@@ -1,7 +1,7 @@
 ---
 layout: pilgrimage
 title: "Time Traveling from the Bubonic Plague to 1600"
-categories: [ Western Civilizations 102 timeline ]
+categories:  [ Eastern Mediterranean, 6th century ]
 mapurl: "https://www.google.com/maps/place/39°10'13.1%22N+86°31'02.5%22W/@39.1703009,-86.5173569,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1703009!4d-86.5173569" → COPY AND PASTE URL - Important: Keep quotations.
 clue: "Find me in GISB 1028"
 shortdesc: >

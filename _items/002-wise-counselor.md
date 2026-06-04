@@ -2,7 +2,7 @@
 layout: pilgrimage
 title: "Time Travel"
 categories: [ Eastern Mediterranean, 6th century ]
-mapurl: ["https://www.google.com/maps/place/Genoese+fortress/@45.0214958,35.3970795,17z/data=!4m14!1m7!3m6!1s0x40eb85fd22071caf:0x3bad46e18f0ea250!2sGenoese+fortress!8m2!3d45.021492!4d35.3996544!16s%2Fg%2F1hb_hbtxm!3m5!1s0x40eb85fd22071caf:0x3bad46e18f0ea250!8m2!3d45.021492!4d35.3996544!16s%2Fg%2F1hb_hbtxm?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D]"
+mapurl: "https://www.google.com/maps/place/Genoese+fortress/@45.0214958,35.3970795,17z/data=!4m14!1m7!3m6!1s0x40eb85fd22071caf:0x3bad46e18f0ea250!2sGenoese+fortress!8m2!3d45.021492!4d35.3996544!16s%2Fg%2F1hb_hbtxm!3m5!1s0x40eb85fd22071caf:0x3bad46e18f0ea250!8m2!3d45.021492!4d35.3996544!16s%2Fg%2F1hb_hbtxm?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me in GISB 1028"
 shortdesc: >
     IU students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom amd what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for Medieval Studies in the 28th room of the first floor in a shimmering building, made of equal parts glass and stone, near the limestone monolith at the top of the highest hill.
